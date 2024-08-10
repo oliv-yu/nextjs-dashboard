@@ -11,3 +11,8 @@ Run `npm i` to install project packages
 ### To Deploy
 
 Run `npm run dev` to start the development server on localhost:3000
+
+### To Login
+
+    Email: user@nextmail.com
+    Password: 123456
