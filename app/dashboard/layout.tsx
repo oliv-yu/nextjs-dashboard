@@ -1,6 +1,7 @@
 import SideNav from '@/app/ui/dashboard/sidenav';
 
-export const experimental_ppr = false; // Commented out due to incompability with the current version of Next.js
+// export const experimental_ppr = false;
+// Commented out due to incompatibility with the current version of Next.js
 
 export default function Layout({ children }: { children: React.ReactNode }) {
   return (
