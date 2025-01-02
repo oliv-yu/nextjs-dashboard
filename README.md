@@ -14,5 +14,7 @@ Run `npm run dev` to start the development server on localhost:3000
 
 ### To Login
 
+In order to login, remember to update `.env` file with secret key.
+
     Email: user@nextmail.com
     Password: 123456
